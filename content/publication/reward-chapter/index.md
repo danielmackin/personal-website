@@ -42,7 +42,7 @@ featured: false
 image:
   focal_point: ""
   preview_only: false
-projects: []
+projects: [] 
 publication: In *The Neuroscience of Depression: Genetics, Cell Biology, Neurology, Behaviour, and Diet*
 publication_short: ""
 publication_types:
