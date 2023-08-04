@@ -27,12 +27,12 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: In *Journal of Psychopathology and Clinical Science*
+publication: In *The Neuroscience of Depression: Genetics, Cell Biology, Neurology, Behaviour, and Diet*
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2022-06-02T00:00:00Z"
 summary: ""
-title: "Intergenerational Transmission of Depressive and Anxiety Disorders: Mediation Via Youth Personality"
+title: "Reward processing and depression: Current findings and future directions"
 url_pdf: ""
 ---
