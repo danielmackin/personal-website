@@ -24,7 +24,7 @@ organizations:
   url: https://geiselmed.dartmouth.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Psychologist and data scientist intersted in the intersection of technology and mental health. I apply traditional and advanced quantitative methods to understand the development and course of psychopathology.
+bio: Psychologist and data scientist interested in the intersection of technology and mental health. I apply traditional and advanced quantitative methods to understand the development and course of psychopathology.
 
 # Interests to show in About widget
 interests:
