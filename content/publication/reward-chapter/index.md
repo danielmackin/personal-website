@@ -18,13 +18,10 @@ abstract: "Depressive disorders, including major depressive disorder (MDD) and p
   direction of future research in the area of reward processing and depression."
 authors:
 - admin
-- Megan C. Finsaas
 - Brady D. Nelson
-- Greg Perlman
-- Roman Kotov
 - Daniel N. Klein
 date: "2022-06-02T00:00:00Z"
-doi: "https://doi.org/10.1037/abn0000759"
+doi: "https://doi.org/10.1016/B978-0-12-817935-2.00051-9"
 featured: false
 image:
   focal_point: ""
