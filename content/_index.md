@@ -15,7 +15,7 @@ sections:
     items:
       - name: Python
         icon: python
-        icon_pack: fas
+        icon_pack: ai
       - name: Statistics
         icon: chart-line
         icon_pack: fas
