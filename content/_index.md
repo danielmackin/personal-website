@@ -9,19 +9,19 @@ sections:
     username: admin
   id: about
 
-#- block: features
-#  content:
-#    title: Skills
-#    items:
-#      - name: Python
-#        icon: python
-#        icon_pack: fas
-#      - name: Statistics
-#        icon: chart-line
-#        icon_pack: fas
-#      - name: R
-#        icon: r-project
-#        icon_pack: fab
+- block: features
+  content:
+    title: Skills
+    items:
+      - name: Python
+        icon: python
+        icon_pack: fas
+      - name: Statistics
+        icon: chart-line
+        icon_pack: fas
+      - name: R
+        icon: r-project
+        icon_pack: fab
 
 - block: experience
   content:
