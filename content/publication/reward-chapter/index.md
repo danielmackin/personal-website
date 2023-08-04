@@ -25,7 +25,7 @@ doi: "https://doi.org/10.1016/B978-0-12-817935-2.00051-9"
 featured: false
 image:
   focal_point: ""
-  preview_only: true
+  preview_only: false
 projects: []
 publication: In *The Neuroscience of Depression: Genetics, Cell Biology, Neurology, Behaviour, and Diet*
 publication_short: ""
