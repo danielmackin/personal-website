@@ -36,13 +36,13 @@ authors:
 - admin
 - Brady D. Nelson
 - Daniel N. Klein
-date: "2021-01-01T00:00:00Z"
+date: "2021-03-01T00:00:00Z"
 doi: "https://doi.org/10.1016/B978-0-12-817935-2.00051-9"
 featured: false
 image:
   focal_point: ""
   preview_only: false
-projects:[]
+projects: []
 publication: In *The Neuroscience of Depression: Genetics, Cell Biology, Neurology, Behaviour, and Diet*
 publication_short: ""
 publication_types:
