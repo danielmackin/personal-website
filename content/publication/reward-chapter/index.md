@@ -42,12 +42,12 @@ featured: false
 image:
   focal_point: ""
   preview_only: false
-projects: [] 
+projects:[]
 publication: In *The Neuroscience of Depression: Genetics, Cell Biology, Neurology, Behaviour, and Diet*
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2021-03-01T00:00:00Z"
 summary: ""
 title: "Reward processing and depression: Current findings and future directions"
 url_pdf: ""
