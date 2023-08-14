@@ -9,7 +9,12 @@ summary: ""
 tags:
 - Reinforcement Learning
 title: "Neuromelanin, Reinforcement Learning, and Anhedonia: Identifying Associations, Antecedents, and Consequences"
-url_code: "https://osf.io/2rcnz/"
+links:
+  - icon: osf
+    icon_pack: fab
+    name: Link
+    url: https://osf.io/2rcnz/
+url_slides: "https://osf.io/2rcnz/"
 url_pdf: "https://osf.io/a759p"
 ---
 
