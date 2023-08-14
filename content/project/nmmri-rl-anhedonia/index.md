@@ -14,7 +14,7 @@ links:
     icon_pack: fab
     name: Project Materials
     url: https://osf.io/2rcnz/
-url_slides: "https://osf.io/2rcnz/"
+url_slides: "https://osf.io/8y59e"
 url_pdf: "https://osf.io/a759p"
 ---
 
