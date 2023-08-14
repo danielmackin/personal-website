@@ -9,8 +9,8 @@ summary: ""
 tags:
 - Reinforcement Learning
 title: "Neuromelanin, Reinforcement Learning, and Anhedonia: Identifying Associations, Antecedents, and Consequences"
-url_code: ""
-url_pdf: ""
+url_code: "https://osf.io/2rcnz/"
+url_pdf: "https://osf.io/a759p"
 ---
 
 Reward processing plays a transdiagnostic role in the etiopathogenesis of psychopathology. Reinforcement learning deficits, 
