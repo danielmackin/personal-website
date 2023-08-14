@@ -12,7 +12,7 @@ title: "Neuromelanin, Reinforcement Learning, and Anhedonia: Identifying Associa
 links:
   - icon: osf
     icon_pack: fab
-    name: Link
+    name: Project Materials
     url: https://osf.io/2rcnz/
 url_slides: "https://osf.io/2rcnz/"
 url_pdf: "https://osf.io/a759p"
